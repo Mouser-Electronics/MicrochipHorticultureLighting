@@ -1,1 +1,1 @@
-# MicrochipHorticultureLighting
+# Microchip Horticulture Lighting

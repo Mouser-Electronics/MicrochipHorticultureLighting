@@ -23,9 +23,9 @@ const char pubMessageStart[] = "{\"event_data\":{\"lux\":\"";
 const char pubMessageEnd[] = "\"}}";
 
 
-const int lightSensorPin = 0;
-const int DIMControlPin = 3;
-const int ENControlPin = 4;
+const int lightSensorPin = 3;
+const int DIMControlPin = 7;
+const int ENControlPin = 5;
 
 const long interval = 1000;
 unsigned long previousMillis = 0;
